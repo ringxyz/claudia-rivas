@@ -1,1 +1,1 @@
-{"count": 241, "width": 1280, "height": 720, "fps": 24, "pattern": "media/frames-mobile/frame-{index}.webp?v=2", "poster": "media/hero.webp?v=2", "bytes": 7586368}
+{"count":121,"width":960,"height":540,"fps":24,"startIndex":1,"pattern":"media/frames-current-mobile/frame-{index}.webp","poster":"media/hero-start.png","bytes":1965874}
