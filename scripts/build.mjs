@@ -1,7 +1,7 @@
 import {readFile,writeFile,mkdir,rm} from 'node:fs/promises';
 import {build} from 'vite';
 const base=(process.env.BASE_PATH||'/').replace(/\/?$/,'/');
-const site=process.env.SITE_URL?.replace(/\/$/,'');
+const site=(process.env.SITE_URL||'https://claudrivas.com').replace(/\/$/,'');
 if(process.env.PRODUCTION_RELEASE==='true'&&!site)throw Error('SITE_URL is required for a production release.');
 if(site&&(!/^https:\/\//.test(site)||new URL(site).origin!==site))throw Error('SITE_URL must be an HTTPS origin.');
 if(process.env.UPDATE_EPISODES==='true')await import('./update-episodes.mjs');
