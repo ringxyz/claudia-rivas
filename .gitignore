@@ -1,0 +1,23 @@
+node_modules/
+dist/
+.npm-cache/
+.prerender/
+.env*
+!.env.example
+originals/
+Fotos Claudia/
+Fotos Modelaje/
+Logo/
+review-v2/
+.tmp*/
+*.zip
+*.docx
+*.pdf
+*.png
+*.jpg
+!public/**/*.png
+!public/**/*.jpg
+youtube-channel.html
+lighthouse.json
+source-content.txt
+Fotos modelaje/
