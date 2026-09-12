@@ -31,6 +31,6 @@ El SEO de la vista local no representa la publicación: está deliberadamente no
 ## Dependencias pendientes
 
 1. Dominio y destino de hosting para generar distribución de producción con URLs reales.
-2. Activación del correo enterprisesbusinesscorp@gmail.com en FormSubmit y prueba de recepción autorizada. WhatsApp ya está configurado con el número confirmado.
+2. Activación del correo Claud360podcast@gmail.com en FormSubmit y prueba de recepción autorizada. WhatsApp ya está configurado con el número confirmado.
 
 No se ha creado un repositorio, publicado un sitio ni enviado mensajes a terceros.

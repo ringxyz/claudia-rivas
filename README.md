@@ -28,7 +28,7 @@ Define `SITE_URL` con el origen HTTPS confirmado, `BASE_PATH=/` (o la subruta de
 - Fotos y secuencias optimizadas: `public/media`. El hero usa 241 fotogramas HD con nitidez reforzada y carga solo una pequeña ventana alrededor del punto actual del scroll. Originales preservados localmente y excluidos de Git.
 - La galería de moda abre cada fotografía en un lightbox accesible con fondo translúcido, navegación anterior/siguiente, flechas de teclado y cierre con Escape.
 - Logo oficial: `public/brand/claudia-rivas.png`; fuente: `public/fonts/manrope.woff2`.
-- Correo confirmado: enterprisesbusinesscorp@gmail.com. El formulario está integrado con FormSubmit para remitir propuestas a esa dirección. La activación del destinatario y la recepción real están pendientes de verificación. El enlace de correo ofrece un contacto alternativo.
+- Correo confirmado: Claud360podcast@gmail.com. El formulario está integrado con FormSubmit para remitir propuestas a esa dirección. La activación del destinatario y la recepción real están pendientes de verificación. El enlace de correo ofrece un contacto alternativo.
 - WhatsApp confirmado: +17867028767. Abre una conversación con borrador sin enviarlo.
 
 FormSubmit está configurado por defecto; `VITE_CONTACT_ENDPOINT` permite cambiarlo, como indica `.env.example`. Usa el valor `mailto` para abrir borradores sin servicio externo. Requiere activación del destinatario y prueba de recepción autorizada antes de utilizarla en producción. No se enviaron mensajes de prueba ni se verificó entrega.
