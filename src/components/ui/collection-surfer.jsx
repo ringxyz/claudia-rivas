@@ -3,7 +3,7 @@ import {createPortal} from 'react-dom';
 import {motion,useScroll,useTransform} from 'motion/react';
 import {asset} from '../../site';
 
-const count=18;
+const count=23;
 const label=(index,en)=>`${en?'Claudia Rivas, fashion photograph':'Claudia Rivas, fotografía de moda'} ${index+1}`;
 
 function Card({index,progress,en,onOpen}){
